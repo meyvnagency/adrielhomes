@@ -59,7 +59,7 @@ The goal is to create an online presence that not only showcases the diverse off
   - [TikTok](https://www.tiktok.com/@meyvnagency)
   - [YouTube](https://www.youtube.com/@meyvnagency)
 
-- **Developer**: ```Iwmvictor from Meyvn Agency```
+- **Developer**: ```[Iwmvictor](https://github.com/iwmvictor) from Meyvn Agency```
 
 ## Repository Information
 

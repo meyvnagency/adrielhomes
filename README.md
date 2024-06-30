@@ -47,15 +47,15 @@ The goal is to create an online presence that not only showcases the diverse off
 
 ## Developer Info
 
-**Meyvn Agency** is an IT company providing a range of tech services including software development, IT support, and other technology solutions. Our team is dedicated to delivering innovative and high-quality digital solutions.
+**Meyvn Agency** is an IT company based in Rwanda, providing a range of tech services including software development, IT support, and other technology solutions. Our team is dedicated to delivering innovative and high-quality digital solutions.
 
-- **Phone**: +250 733 545 477
-- **Email**: info.meyvn@gmail.com
-- **Address**: Musanze, North - Rwanda
+- **Phone**: ```+250 722132096```
+- **Email**: ``info.meyvn@gmail.com``
+- **Address**: ``Musanze, North - Rwanda``
 - **Social Media**: 
   - [Instagram](https://www.instagram.com/meyvnagency)
   - [Twitter](https://www.twitter.com/meyvnagency)
-  - [Facebook](https://www.facebook.com/profile.php?id=61557959387375)
+  - [Facebook](https://www.facebook.com/themeyvnagency)
   - [TikTok](https://www.tiktok.com/@meyvnagency)
   - [YouTube](https://www.youtube.com/@meyvnagency)
 

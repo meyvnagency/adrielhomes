@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+  background: #b8bbbb;
+  width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #5b7a92;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+  max-width: 1220px;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  transition: 0.8s cubic-bezier(0.22, 0.78, 0.45, 1.02);
+}

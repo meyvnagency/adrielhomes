@@ -26,6 +26,8 @@ function Header() {
   const [time, setTime] = useState("");
   const [scrolled, setScrolled] = useState(false);
 
+  const apiKey = import.meta.env.VITE_OPENWEATHERMAP_API_KEY;
+
   // Fetch and update date and time
   useEffect(() => {
     const updateDateTime = () => {
@@ -52,7 +54,7 @@ function Header() {
               lat: latitude,
               lon: longitude,
               units: "metric",
-              appid: "c2168e4686be9b03fa88e483b7c29dc8", // Replace with your OpenWeatherMap API key
+              appid: apiKey,
             },
           }
         );
@@ -80,7 +82,7 @@ function Header() {
 
     // Call function to get user's location and fetch weather
     getLocation();
-  }, []);
+  }, [apiKey]);
 
   // Handle scroll event
   useEffect(() => {
